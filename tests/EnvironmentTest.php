@@ -449,7 +449,6 @@ class EnvironmentTest_Extension extends AbstractExtension implements GlobalsInte
         ];
     }
 }
-class_alias('\Twig\Tests\EnvironmentTest_Extension', 'Twig\Tests\EnvironmentTest\Extension', false);
 
 class EnvironmentTest_TokenParser extends AbstractTokenParser
 {
