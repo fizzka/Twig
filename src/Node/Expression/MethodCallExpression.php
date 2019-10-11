@@ -60,5 +60,3 @@ class MethodCallExpression extends AbstractExpression
             ->raw(', $context, $this->getSourceContext())');
     }
 }
-
-class_alias('Twig\Node\Expression\MethodCallExpression', 'Twig_Node_Expression_MethodCall');

@@ -337,7 +337,6 @@ final class CoreExtension extends AbstractExtension
     }
 }
 
-class_alias('Twig\Extension\CoreExtension', 'Twig_Extension_Core');
 }
 
 namespace {

@@ -253,5 +253,3 @@ class Error extends \Exception
         }
     }
 }
-
-class_alias('Twig\Error\Error', 'Twig_Error');

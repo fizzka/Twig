@@ -48,5 +48,3 @@ final class ExtendsTokenParser extends AbstractTokenParser
         return 'extends';
     }
 }
-
-class_alias('Twig\TokenParser\ExtendsTokenParser', 'Twig_TokenParser_Extends');

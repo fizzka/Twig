@@ -60,5 +60,3 @@ final class FilterTokenParser extends AbstractTokenParser
         return 'filter';
     }
 }
-
-class_alias('Twig\TokenParser\FilterTokenParser', 'Twig_TokenParser_Filter');

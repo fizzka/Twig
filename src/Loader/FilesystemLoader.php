@@ -304,5 +304,3 @@ class FilesystemLoader implements LoaderInterface, ExistsLoaderInterface, Source
         ;
     }
 }
-
-class_alias('Twig\Loader\FilesystemLoader', 'Twig_Loader_Filesystem');

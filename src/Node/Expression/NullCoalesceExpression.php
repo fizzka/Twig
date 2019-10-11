@@ -58,5 +58,3 @@ class NullCoalesceExpression extends ConditionalExpression
         }
     }
 }
-
-class_alias('Twig\Node\Expression\NullCoalesceExpression', 'Twig_Node_Expression_NullCoalesce');

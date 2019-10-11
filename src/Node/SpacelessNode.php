@@ -45,5 +45,3 @@ class SpacelessNode extends Node implements NodeOutputInterface
         ;
     }
 }
-
-class_alias('Twig\Node\SpacelessNode', 'Twig_Node_Spaceless');

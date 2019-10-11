@@ -209,5 +209,3 @@ final class Token
         }
     }
 }
-
-class_alias('Twig\Token', 'Twig_Token');

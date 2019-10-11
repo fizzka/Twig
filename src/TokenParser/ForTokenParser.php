@@ -133,5 +133,3 @@ final class ForTokenParser extends AbstractTokenParser
         return 'for';
     }
 }
-
-class_alias('Twig\TokenParser\ForTokenParser', 'Twig_TokenParser_For');
